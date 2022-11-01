@@ -35,3 +35,30 @@ Webpage: https://psyteachr.github.io
 In particular I suggest resbaz21dh as an introductory text analysis tutorial as an Rmd, and Road_accident_fatigue which is an Rmd analysis of weekly road crash patterns.
 Also, people don't see the code in this but as Rmarkdown syntax in a quarto publication I push the render command to download the latest data and update my local copy for the day, then upload it to https://github.com/thoughtfulbloke
 
+## More tutorials
+* https://debruine.github.io/lmem_sim/index.html
+* https://psyteachr.github.io/ads-v1/reports.html
+* http://steveharoz.com/research/comments/sampling.html
+## Paper
+
+* https://www.tandfonline.com/doi/full/10.1080/26939169.2022.2138645
+
+## Targets
+
+* http://rmflight.github.io/
+* http://rmflight.github.io/affyMM/ , https://github.com/rmflight/affyMM
+
+##  More paper examples
+
+* http://rmflight.github.io/ccPaper/inst/doc/skin_muscle_preprocessing.html , 
+* https://github.com/MoseleyBioinformaticsLab/manuscript.peakCharacterization, 
+* https://www.mdpi.com/2218-1989/12/6/515,
+* https://github.com/moseleybioinformaticslab/manuscript.ICIKendallTau/
+* https://www.biorxiv.org/content/10.1101/2022.02.24.481854v2
+* https://github.com/bakerdh/FourierStats/tree/master/manuscript
+* https://osf.io/e62wu/
+
+## Books
+
+* https://github.com/bakerdh/ARMbookOUP
+
